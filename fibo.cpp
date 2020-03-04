@@ -12,7 +12,9 @@ int main()
 
     for (int i = 1; i <= n; ++i)
     {
-        
+
+        // Prints 
+
         if(i == 1)
         {
             cout << " " << t1;
