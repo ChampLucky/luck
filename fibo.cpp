@@ -12,7 +12,7 @@ int main()
 
     for (int i = 1; i <= n; ++i)
     {
-        // Prints the first two terms.
+        // Prints 
         if(i == 1)
         {
             cout << " " << t1;
